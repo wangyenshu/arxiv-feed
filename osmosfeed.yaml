@@ -3,7 +3,7 @@
 # https://github.com/osmoscraft/osmosfeed/blob/master/docs/osmosfeed-yaml-reference.md
 #########################
 
-# cacheUrl: https://GITHUB_USERNAME.github.io/REPO_NAME/cache.json
+cacheUrl: https://wangyenshu.github.io/arxiv-feed/cache.json
 sources:
   - href: rss.arxiv.org/rss/math.NT
 
