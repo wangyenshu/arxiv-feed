@@ -5,5 +5,4 @@
 
 cacheUrl: https://wangyenshu.github.io/arxiv-feed/cache.json
 sources:
-  - href: rss.arxiv.org/rss/math.NT
-
+  - href: https://rss.arxiv.org/rss/math.NT
