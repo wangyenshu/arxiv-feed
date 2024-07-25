@@ -6,6 +6,166 @@
       "siteUrl": "http://rss.arxiv.org/rss/math.NT",
       "articles": [
         {
+          "id": "oai:arXiv.org:2406.15930v2",
+          "author": "Ronald Orozco L\\'opez",
+          "description": "arXiv:2406.15930v2 Announce Type: replace \nAbstract: In this paper, representations of the Euler $(s,t)$-numbers ${\\rm e}_{s,t,u}$ are given: as series compression, as Engel series expansion, as a series of partial Theta functions, as a continued fraction and as the limit of a sequence. Furthermore, it is proved that ${\\rm e}_{as,a^2t,u^{-1}}$ and ${\\rm e}_{as,a^2t,u^{-1}}^{-1}$ are irrational numbers when $a,u\\in\\mathbb{Q}$ and $\\vert au\\vert>1$. This is the first step in a program to study the irrationality of $(s,t)$-analog of known numbers.",
+          "link": "https://arxiv.org/abs/2406.15930",
+          "publishedOn": "2024-07-25T01:10:29.478Z",
+          "wordCount": 655,
+          "title": "Some Representations of the Deformed Euler Numbers ${\\rm e}_{s,t,u}$ and Proof for Irrationality",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "oai:arXiv.org:2212.06208v2",
+          "author": "Jack Morgan Davies",
+          "description": "arXiv:2212.06208v2 Announce Type: replace-cross \nAbstract: The cohomology theory TMF of topological modular forms is a derived algebro-geometric interpretation of the classical ring of complex modular forms from number theory. In this article, we refine the classical Adams operations, Hecke operators, and Atkin--Lehner involutions from endomorphisms of classical modular forms to stable operators on TMF. Our algebro-geometric formulation of these operators leads to simple proofs of their many remarkable properties and computations. From these properties, we use techniques from homotopy theory to make simple number-theoretic deductions, including a rederivation of some classical congruences of Ramanujan and providing new infinite families of classical Hecke operators which satisfy Maeda's conjecture.",
+          "link": "https://arxiv.org/abs/2212.06208",
+          "publishedOn": "2024-07-25T01:10:29.444Z",
+          "wordCount": 684,
+          "title": "Hecke operators on topological modular forms",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "oai:arXiv.org:2406.14659v2",
+          "author": "Seewoo Lee",
+          "description": "arXiv:2406.14659v2 Announce Type: replace \nAbstract: We give algebraic proofs of Viazovska and Cohn-Kumar-Miller-Radchenko-Viazovska's modular form inequalities for 8 and 24-dimensional optimal sphere packings.",
+          "link": "https://arxiv.org/abs/2406.14659",
+          "publishedOn": "2024-07-25T01:10:29.415Z",
+          "wordCount": 594,
+          "title": "Algebraic proof of modular form inequalities for optimal sphere packings",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "oai:arXiv.org:2407.16348v1",
+          "author": "Kei Beauduin",
+          "description": "arXiv:2407.16348v1 Announce Type: cross \nAbstract: In this paper, we explore the effectiveness of purely operational methods in the study of umbral calculus. To accomplish this goal, we systematically reconstruct the theory \\emph{operationally}, offering new proofs and results throughout. Our approach is applied to the study of invertible power series, where we notably offer a concise two-line proof of Lagrange's inversion theorem and derive new formulas for both regular and fractional compositional iterates. In addition, we will develop several new insights into umbral operators, including their fractional exponents and novel expressions, in connection with the previously discussed applications. Finally, we discuss both established and new concepts and examples, such as pseudoinverses of delta operators and a natural generalization of Laguerre polynomials.",
+          "link": "https://arxiv.org/abs/2407.16348",
+          "publishedOn": "2024-07-25T01:10:29.335Z",
+          "wordCount": 672,
+          "title": "Operational Umbral Calculus",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "oai:arXiv.org:2407.15952v1",
+          "author": "Yugang Zhang",
+          "description": "arXiv:2407.15952v1 Announce Type: cross \nAbstract: Given an algebraic family $f\\colon\\Lambda\\times \\mathbb{A}^2 \\to \\Lambda\\times \\mathbb{A}^2$ of plane polynomial automorphisms of H\\'enon type parameterized by a quasi-projective curve, defined over a number field $\\mathbb{K}$, we study the number of periodic points contained in a family of subvarieties $Y\\subset \\Lambda \\times \\mathbb{A}^2 \\to \\Lambda$. Under some mild conditions (e.g., when the family is dissipative), we show that there are only finitely many periodic points contained in a non periodic marked point. This generalizes a result of Charles Favre and Romain Dujardin. We also show that there is a uniform bound on the number of periodic points in a family of curves $Y_t, t\\in \\Lambda$, when $Y$ is non-degenerate. Then we study in more details the case of dissipative families of quadratic H\\'enon maps.",
+          "link": "https://arxiv.org/abs/2407.15952",
+          "publishedOn": "2024-07-25T01:10:29.296Z",
+          "wordCount": 669,
+          "title": "Arithmetic properties of families of plane polynomial automorphisms",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "oai:arXiv.org:2405.11528v2",
+          "author": "Francis Brown, Melody Chan, S{\\o}ren Galatius, Sam Payne",
+          "description": "arXiv:2405.11528v2 Announce Type: replace-cross \nAbstract: We describe a bigraded cocommutative Hopf algebra structure on the weight zero compactly supported rational cohomology of the moduli space of principally polarized abelian varieties. By relating the primitives for the coproduct to graph cohomology, we deduce that $\\dim H^{2g+k}_c(\\mathcal{A}_g)$ grows at least exponentially with $g$ for $k = 0$ and for all but finitely many positive integers $k$. Our proof relies on a new result of independent interest; we use a filtered variant of the Waldhausen construction to show that Quillen's spectral sequence abutting to the cohomology of $BK(\\mathbb{Z})$ is a spectral sequence of Hopf algebras. From the same construction, we also deduce that $\\dim H^{\\binom{n}{2} - n - k}(\\mathrm{SL}_n(\\mathbb{Z}))$ grows at least exponentially with $n$, for $k = -1$ and for all but finitely many non-negative integers $k$.",
+          "link": "https://arxiv.org/abs/2405.11528",
+          "publishedOn": "2024-07-25T01:10:29.285Z",
+          "wordCount": 727,
+          "title": "Hopf algebras in the cohomology of $\\mathcal{A}_g$, $\\mathrm{GL}_n(\\mathbb{Z})$, and $\\mathrm{SL}_n(\\mathbb{Z})$",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "oai:arXiv.org:2401.05419v2",
+          "author": "Lorenz Milla, Chao-Ping Chen",
+          "description": "arXiv:2401.05419v2 Announce Type: replace \nAbstract: In this paper, we consider rational hypergeometric series of the form \\[\\frac{p}{\\pi}= \\sum_{k=0}^\\infty u_k\\quad\\text{with}\\quad u_k=\\frac{\\left(\\frac{1}{2}\\right)_k \\left(q\\right)_k \\left(1-q\\right)_k}{(k!)^3}(r+s\\,k)\\,t^k,\\] where $(a)_k$ denotes the Pochhammer symbol and $p,q,r,s,t$ are algebraic coefficients. Using only the first $n+1$ terms of this series, we define the remainder \\[\\mathcal{R}_n = \\frac{p}{\\pi} - \\sum_{k=0}^n u_k=\\sum_{k=n+1}^\\infty u_k.\\] We consider an asymptotic expansion of $\\mathcal{R}_n$. More precisely, we provide a recursive relation for determining the coefficients $c_j$ such that \\[ \\mathcal{R}_n = \\frac{\\left(\\frac{1}{2}\\right)_n \\left(q\\right)_n \\left(1-q\\right)_n}{n!^3}nt^n\\left(\\sum_{j=0}^{J-1}\\frac{c_j}{n^j}+\\mathcal{O}\\left(n^{-J}\\right)\\right),\\qquad n \\rightarrow \\infty.\\] Here we need $J<\\infty$ to approximate $\\mathcal{R}_n$, because (like the Stirling series) this series diverges if $J\\rightarrow\\infty$. By applying our recursive relation to the Chudnovsky formula, we solve an open problem posed by Han and Chen.",
+          "link": "https://arxiv.org/abs/2401.05419",
+          "publishedOn": "2024-07-25T01:10:29.279Z",
+          "wordCount": 699,
+          "title": "Asymptotic expansions of truncated hypergeometric series for $1/\\pi$",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "oai:arXiv.org:2310.09541v2",
+          "author": "Tanmoy Bera, Mithun Kumar Das, Anirban Mukhopadhyay",
+          "description": "arXiv:2310.09541v2 Announce Type: replace \nAbstract: In this article, we examine the Poissonian pair correlation (PPC) statistic for higher-dimensional real sequences. Specifically, we demonstrate that for $d\\geq 3$, for almost all $(\\alpha_1,\\ldots,\\alpha_d) \\in \\mathbb{R}^d$, the sequence $\\big(\\{x_n\\alpha_1\\},\\dots,\\{x_n\\alpha_d\\}\\big)$ in $[0,1)^d$ has PPC conditionally on the additive energy bound of $(x_n).$ This bound is more relaxed compared to the additive energy bound for one dimension as discussed in [1]. We also establish the metric PPC for $(n^{\\theta_1},\\ldots,n^{\\theta_d})$ provided that the $\\theta_i$'s are greater than one. More generally, we derive the PPC for $\\big(\\{x_n^{(1)}\\alpha_1\\},\\dots,\\{x_n^{(d)}\\alpha_d\\}\\big) \\in [0,1)^d$ for almost all $(\\alpha_1,\\ldots,\\alpha_d) \\in \\mathbb{R}^d.$",
+          "link": "https://arxiv.org/abs/2310.09541",
+          "publishedOn": "2024-07-25T01:10:29.266Z",
+          "wordCount": 676,
+          "title": "Poissonian pair correlation for higher dimensional real sequences",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "oai:arXiv.org:2407.16120v1",
+          "author": "Tam\\'as Erd\\'elyi",
+          "description": "arXiv:2407.16120v1 Announce Type: new \nAbstract: We prove that there are absolute constants $c_1 > 0$ and $c_2 > 0$ such that for every $$a_0,a_1, \\ldots,a_n \\in [1,M]\\,, \\qquad 1 \\leq M \\leq \\exp(c_2n)\\,,$$ there are $$b_0,b_1,\\ldots,b_n \\in \\{-1,0,1\\}$$ such that the polynomial $\\displaystyle{P(z) = \\sum_{j=0}^n{b_ja_jz^j}}$ has at least $$c_1 \\left( \\frac{n}{\\log(4M)} \\right)^{1/2}$$ distinct sign changes in $I_a := (1-2a,1-a)$, where $\\displaystyle{a := \\left( \\frac{\\log(4M)}{n} \\right)^{1/2} \\leq 1/3}$. This improves and extends earlier results of Bloch and P\\'olya and Erd\\'elyi, and, as a special case, recaptures a special case of a more general recent result of Jacob and Nazarov.",
+          "link": "https://arxiv.org/abs/2407.16120",
+          "publishedOn": "2024-07-25T01:10:29.232Z",
+          "wordCount": 666,
+          "title": "Extensions of the Bloch -- P\\'olya Theorem on the number of real zeros of polynomials (II)",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "oai:arXiv.org:2407.16229v1",
+          "author": "Xin Lin, Daqing Wan",
+          "description": "arXiv:2407.16229v1 Announce Type: new \nAbstract: The study of $n$-dimensional inverted Kloosterman sums was suggested by Katz (1995) who handled the case when $n=1$ from complex point of view. For general $n\\geq 1$, the $n$-dimensional inverted Kloosterman sums were studied from both complex and $p$-adic point of view in our previous paper. In this note, we study the algebraic degree of the inverted $n$-dimensional Kloosterman sum as an algebraic integer.",
+          "link": "https://arxiv.org/abs/2407.16229",
+          "publishedOn": "2024-07-25T01:10:29.225Z",
+          "wordCount": 605,
+          "title": "On algebraic degrees of inverted Kloosterman sums",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "oai:arXiv.org:2407.16459v1",
+          "author": "Adam Morgan, Alexei N. Skorobogatov",
+          "description": "arXiv:2407.16459v1 Announce Type: new \nAbstract: We prove new cases of the Hasse principle for Kummer surfaces constructed from 2-coverings of Jacobians of genus 2 curves, assuming finiteness of relevant Tate--Shafarevich groups. Under the same assumption, we deduce the Hasse principle for quartic del Pezzo surfaces with trivial Brauer group and irreducible or completely split characteristic polynomial, hence the Hasse principle for smooth complete intersections of two quadrics in the projective space of dimension at least 5.",
+          "link": "https://arxiv.org/abs/2407.16459",
+          "publishedOn": "2024-07-25T01:10:29.217Z",
+          "wordCount": 627,
+          "title": "Hasse principle for intersections of two quadrics via Kummer surfaces",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "oai:arXiv.org:2205.08490v3",
+          "author": "Shingo Sugiyama",
+          "description": "arXiv:2205.08490v3 Announce Type: replace \nAbstract: Let $\\Gamma$ be a Fuchsian group in ${\\rm SL}_2(\\mathbb{R})$. In this note, we discuss the existence of $\\rho$-equivariant functions for a two-dimensional representation $\\rho$ of $\\Gamma$. This assertion was first stated by Saber and Sebbar in 2020, and this note partially fills a gap of their statement by proving the assertion for a certain class of Fuchsian groups such as conjugates of subgroups of ${\\rm SL}_2(\\mathbb{Z})$.",
+          "link": "https://arxiv.org/abs/2205.08490",
+          "publishedOn": "2024-07-25T01:10:29.201Z",
+          "wordCount": 648,
+          "title": "A remark on the existence of equivariant functions",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "oai:arXiv.org:2307.16637v3",
+          "author": "Aleksandr Tuxanidy, Daniel Panario",
+          "description": "arXiv:2307.16637v3 Announce Type: replace \nAbstract: It is proven that, in any given base, there are infinitely many palindromic numbers having at most six prime divisors, each relatively large. The work involves equidistribution estimates for the palindromes in residue classes to large moduli, offering upper bounds for moments and averages of certain products closely related to exponential sums over palindromes",
+          "link": "https://arxiv.org/abs/2307.16637",
+          "publishedOn": "2024-07-25T01:10:29.183Z",
+          "wordCount": 607,
+          "title": "Infinitude of palindromic almost-prime numbers",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "oai:arXiv.org:2407.16075v1",
+          "author": "Benjamin Bedert",
+          "description": "arXiv:2407.16075v1 Announce Type: cross \nAbstract: Let $Z(N)$ denote the minimum number of zeros in $[0,2\\pi]$ that a cosine polynomial of the form $$f_A(t)=\\sum_{n\\in A}\\cos nt$$ can have when $A$ is a finite set of non-negative integers of size $|A|=N$. It is an old problem of Littlewood to determine $Z(N)$. In this paper, we obtain the lower bound $Z(N)\\geqslant (\\log\\log N)^{(1+o(1))}$ which exponentially improves on the previous best bounds of the form $Z(N)\\geqslant (\\log\\log\\log N)^c$ due to Erd\\'elyi and Sahasrabudhe.",
+          "link": "https://arxiv.org/abs/2407.16075",
+          "publishedOn": "2024-07-25T01:10:29.161Z",
+          "wordCount": 648,
+          "title": "An improved lower bound for a problem of Littlewood on the zeros of cosine polynomials",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "oai:arXiv.org:2407.16481v1",
+          "author": "Lambert A'Campo",
+          "description": "arXiv:2407.16481v1 Announce Type: new \nAbstract: In this paper we study certain families of motives, which arise as direct summands of the cohomology of the Dwork family. We computationally find examples of interesting families with the following three properties. Firstly, their geometric monodromy group is Zariski dense in $\\operatorname{SL}_n$. Secondly, they realise many different unipotent operators as the monodromy operator at $t = \\infty$. Thirdly, all their Hodge numbers are $\\leq 1$.\n  This has consequences for Galois representations. Namely, if a nilpotent operator $N$ appears as the monodromy at $t = \\infty$ in one of our families, we can construct potentially automorphic representations with $\\ell$-adic monodromy given by $N$ at a fixed prime $p$. As another application, we obtain a new proof of some cases of the recent local-global compatibility theorem of Matsumoto.",
+          "link": "https://arxiv.org/abs/2407.16481",
+          "publishedOn": "2024-07-25T01:10:29.140Z",
+          "wordCount": 662,
+          "title": "Dwork Motives, Monodromy and Potential Automorphy",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "oai:arXiv.org:2407.16315v1",
+          "author": "Tim Browning, Florian Wilsch",
+          "description": "arXiv:2407.16315v1 Announce Type: new \nAbstract: We develop a heuristic for the density of integer points on affine cubic surfaces. Our heuristic applies to smooth surfaces defined by cubic polynomials that are log K3, but it can also be adjusted to handle singular cubic surfaces. We compare our heuristic to Heath-Brown's prediction for sums of three cubes, as well as to asymptotic formulae in the literature around Zagier's work on the Markoff cubic surface, and work of Baragar and Umeda on further surfaces of Markoff-type. We also test our heuristic against numerical data for several families of cubic surfaces.",
+          "link": "https://arxiv.org/abs/2407.16315",
+          "publishedOn": "2024-07-25T01:10:29.080Z",
+          "wordCount": 642,
+          "title": "Integral points on cubic surfaces: heuristics and numerics",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
           "id": "oai:arXiv.org:2406.01474v2",
           "author": "J. Arias de Reyna",
           "description": "arXiv:2406.01474v2 Announce Type: replace \nAbstract: In a letter to Weierstrass Riemann asserted that the number $N_0(T)$ of zeros of $\\zeta(s)$ on the critical line to height $T$ is approximately equal to the total number of zeros to this height $N(T)$. Siegel studied some posthumous papers of Riemann trying to find a proof of this. He found a function $\\mathop{\\mathcal R }(s)$ whose zeros are related to the zeros of the function $\\zeta(s)$. Siegel concluded that Riemann's papers contained no ideas for a proof of his assertion, connected the position of the zeros of $\\mathop{\\mathcal R }(s)$ with the position of the zeros of $\\zeta(s)$ and asked about the position of the zeros of $\\mathop{\\mathcal R }(s)$. This paper is a summary of several papers that we will soon upload to arXiv, in which we try to answer Siegel's question about the position of the zeros of $\\mathop{\\mathcal R }(s)$. The articles contain also improvements on Siegel's results and also other possible ways to prove Riemann's assertion, but without achieving this goal.",
