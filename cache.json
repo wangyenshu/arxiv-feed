@@ -6,6 +6,156 @@
       "siteUrl": "http://rss.arxiv.org/rss/math.NT",
       "articles": [
         {
+          "id": "oai:arXiv.org:2210.16826v3",
+          "author": "Yue-Feng She, Hai-Liang Wu",
+          "description": "arXiv:2210.16826v3 Announce Type: replace \nAbstract: In this paper, with the help of trinomial coefficients we study some arithmetic properties of certain determiants involving reciprocals of binary quadratic forms over finite fields.",
+          "link": "https://arxiv.org/abs/2210.16826",
+          "publishedOn": "2024-07-26T01:09:51.523Z",
+          "wordCount": 597,
+          "title": "Trinomial coefficients and related matrices over finite fields",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "oai:arXiv.org:2311.04043v3",
+          "author": "Johannes Ansch\\\"utz, Jo\\~ao Louren\\c{c}o, Zhiyou Wu, Jize Yu",
+          "description": "arXiv:2311.04043v3 Announce Type: replace \nAbstract: We show that the nearby cycles functor for the $p$-adic Hecke stack at parahoric level is perverse t-exact, by developing a theory of Wakimoto filtrations at Iwahori level, and that it lifts to the $\\mathbb{E}_1$-center. We apply these tools to construct the Arkhipov-Bezrukavnikov functor for $p$-adic affine flag varieties at Iwahori level, and prove that it is an equivalence for type $A$ groups.",
+          "link": "https://arxiv.org/abs/2311.04043",
+          "publishedOn": "2024-07-26T01:09:51.353Z",
+          "wordCount": 668,
+          "title": "Gaitsgory's central functor and the Arkhipov-Bezrukavnikov equivalence in mixed characteristic",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "oai:arXiv.org:2407.17264v1",
+          "author": "Anton Deitmar",
+          "description": "arXiv:2407.17264v1 Announce Type: cross \nAbstract: The equivalence of spectral convergence and Benjamini-Schramm convergence is extended from homogeneous spaces to spaces which are compact modulo isometry group. The equivalence is proven under the condition of a uniform discreteness property. It is open, which implications hold without this condition.",
+          "link": "https://arxiv.org/abs/2407.17264",
+          "publishedOn": "2024-07-26T01:09:51.226Z",
+          "wordCount": 583,
+          "title": "Benjamini-Schramm and spectral convergence II. The non-homogeneous case",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "oai:arXiv.org:2308.08865v2",
+          "author": "Sophie Marques, Elizabeth Mrema",
+          "description": "arXiv:2308.08865v2 Announce Type: replace \nAbstract: This paper characterizes the cyclicity property of $2$-power cyclotomic extensions through various means: the structure of the Galois groups, the nature of their subextensions, tower decompositions, and, most importantly, specific conditions on the base field.",
+          "link": "https://arxiv.org/abs/2308.08865",
+          "publishedOn": "2024-07-26T01:09:51.217Z",
+          "wordCount": 591,
+          "title": "When is a 2-Power Cyclotomic Extension cyclic?",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "oai:arXiv.org:2407.16934v1",
+          "author": "Takenori Kataoka",
+          "description": "arXiv:2407.16934v1 Announce Type: cross \nAbstract: Recently Iwasawa theory for graphs is developing. A significant achievement includes an analogue of Iwasawa class number formula, which describes the asymptotic growth of the numbers of spanning trees for $\\mathbb{Z}_p$-coverings of graphs. Moreover, an analogue of Kida's formula concerning the behavior of the $\\lambda$- and $\\mu$-invariants is obtained for unramified coverings. In this paper, we establish Kida's formula for possibly ramified coverings.",
+          "link": "https://arxiv.org/abs/2407.16934",
+          "publishedOn": "2024-07-26T01:09:51.207Z",
+          "wordCount": 597,
+          "title": "Kida's formula for graphs with ramifications",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "oai:arXiv.org:2407.17415v1",
+          "author": "Chifan Leung, Clayton Petsche",
+          "description": "arXiv:2407.17415v1 Announce Type: new \nAbstract: We prove that arboreal Galois extensions of number fields are never abelian for post-critically finite rational maps and non-preperiodic base points. For polynomials, this establishes a new class of known cases of a conjecture of Andrews-Petsche. Together with a result of Ferraguti-Ostafe-Zannier, this result implies that counterexamples to the conjecture, if they exist, are sparse. We also prove an auxiliary result on places of periodic reduction for rational maps, which may be of independent interest.",
+          "link": "https://arxiv.org/abs/2407.17415",
+          "publishedOn": "2024-07-26T01:09:51.200Z",
+          "wordCount": 626,
+          "title": "Non-abelian arboreal Galois groups associated to PCF rational maps",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "oai:arXiv.org:1911.03968v4",
+          "author": "Jes\\'us Guillera",
+          "description": "arXiv:1911.03968v4 Announce Type: replace \nAbstract: First we give formulas for proving Ramanujan series for $1/\\pi$, Then, as an example, we apply them for providing complete proofs of the fastest series for $1/\\pi$ due to Ramanujan using Russell and Weber modular polynomials.",
+          "link": "https://arxiv.org/abs/1911.03968",
+          "publishedOn": "2024-07-26T01:09:51.188Z",
+          "wordCount": 630,
+          "title": "The fastest series for $1/\\pi$ due to Ramanujan. Proofs from modular polynomials",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "oai:arXiv.org:2407.17355v1",
+          "author": "Kevin Keating, Paul Schwartz",
+          "description": "arXiv:2407.17355v1 Announce Type: new \nAbstract: Let $K$ be a local field of characteristic 0 with residue characteristic $p$. Let $G$ be an extraspecial $p$-group and let $L/K$ be a totally ramified $G$-extension. In this paper we find sufficient conditions for $L/K$ to admit a Galois scaffold. This leads to sufficient conditions for the ring of integers $\\mathfrak{O}_L$ to be free of rank 1 over its associated order $\\mathfrak{A}_{L/K}$, and to stricter conditions which imply that $\\mathfrak{A}_{L/K}$ is a Hopf order in the group ring $K[G]$.",
+          "link": "https://arxiv.org/abs/2407.17355",
+          "publishedOn": "2024-07-26T01:09:51.173Z",
+          "wordCount": 623,
+          "title": "Galois scaffolds for extraspecial p-extensions in characteristic 0",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "oai:arXiv.org:2407.17411v1",
+          "author": "John Bergdall, Robert Pollack",
+          "description": "arXiv:2407.17411v1 Announce Type: new \nAbstract: This article explains how to practically compute L-invariants of p-new eigenforms using p-adic L-series and exceptional zero phenomena. As proof of the utility, we compiled a data set consisting of over 150,000 L-invariants. We analyze qualitative and quantitative features found in the data. This includes conjecturing a statistical law for the distribution of the valuations of L-invariants in a fixed level as the weights of eigenforms approach infinity. One novel point of our investigation is that the algorithm is sensitive to compiling data for fixed Galois representations modulo p. Therefore, we explain new perspectives on L-invariants that are related to Galois representations. We propose understanding the structures in our data through the lens of deformation rings and moduli stacks of Galois representations.",
+          "link": "https://arxiv.org/abs/2407.17411",
+          "publishedOn": "2024-07-26T01:09:51.167Z",
+          "wordCount": 680,
+          "title": "New phenomena arising from L-invariants of modular forms",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "oai:arXiv.org:2407.17042v1",
+          "author": "Marzio Mula, Federico Pintore, Daniele Taufer",
+          "description": "arXiv:2407.17042v1 Announce Type: new \nAbstract: We prove that the Hessian transformation of a plane projective cubic corresponds to a $3$-endomorphism of a model elliptic curve. By exploiting this result, we investigate a family of functional graphs -- called Hessian graphs -- defined by the Hessian transformation. We show that, over arbitrary fields of characteristics different from $2$ and $3$, the Hessian graphs inherit distinctive features from the arithmetic of the model curve. We then specialize our analysis to the finite-field case, proving several regularities of Hessian graphs.",
+          "link": "https://arxiv.org/abs/2407.17042",
+          "publishedOn": "2024-07-26T01:09:51.155Z",
+          "wordCount": 627,
+          "title": "The Hessian of elliptic curves",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "oai:arXiv.org:2407.17121v1",
+          "author": "Nikita Gurin",
+          "description": "arXiv:2407.17121v1 Announce Type: new \nAbstract: This paper will discuss new ways of representing integers raised to integral powers as sums of smaller integral powers. The idea of expressing high powers in terms of lower powers turns out to have many interesting consequences and useful applications, some of the most prominent of which are the subject of consideration in this work.",
+          "link": "https://arxiv.org/abs/2407.17121",
+          "publishedOn": "2024-07-26T01:09:51.131Z",
+          "wordCount": 579,
+          "title": "Representation of Integral Powers",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "oai:arXiv.org:2407.16703v1",
+          "author": "Yuri G. Zarhin",
+          "description": "arXiv:2407.16703v1 Announce Type: new \nAbstract: Let $O$ be an order of odd discriminant $D$ in an imaginary quadratic field $K$. Let $Cl(O)$ be the group of proper $O$-ideals and $Cl(O)[2]$ the kernel of multiplication by $2$ in $Cl(O)$. We describe explicitly the group $Cl(O)[2]$. In particular, we prove that its order is\n  $2^{s_D-1}$ where $s_D$ is the number of prime divisors of $D$.",
+          "link": "https://arxiv.org/abs/2407.16703",
+          "publishedOn": "2024-07-26T01:09:51.119Z",
+          "wordCount": 609,
+          "title": "Odd quadratic orders and real $j$-invariants",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "oai:arXiv.org:2407.17055v1",
+          "author": "Giada Grossi, David Loeffler, Sarah Livia Zerbes",
+          "description": "arXiv:2407.17055v1 Announce Type: new \nAbstract: We prove the Bloch-Kato conjecture for critical values of Asai L-functions of p-ordinary Hilbert modular forms over quadratic fields (with p split); and one inclusion in the Iwasawa main conjecture for these L-functions (up to a power of p).\n  Nous prouvons la conjecture de Bloch-Kato pour la fonction L Asai pour le formes modulaires Hilbert p-ordinaires associ\\'ees \\`a une extension r\\'eelle quadratique dans laquelle p decompose. Egalement nous obtenons une inclusion de la Conjecture Principale d'Iwasawa.",
+          "link": "https://arxiv.org/abs/2407.17055",
+          "publishedOn": "2024-07-26T01:09:51.109Z",
+          "wordCount": 639,
+          "title": "On the Bloch-Kato conjecture and Iwasawa main conjecture for GO(4)",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "oai:arXiv.org:2407.17005v1",
+          "author": "Kensuke Aoki",
+          "description": "arXiv:2407.17005v1 Announce Type: new \nAbstract: We introduce trianguline deformation spaces $X_{\\tri} (\\overline{\\rho})$ for a $\\GSp_{2n}$-valued residual representation $\\overline{\\rho} \\colon {\\mathcal{G}}_K \\to \\GSp_{2n} (k)$, where $k$ is a finite field of characteristic $p > 0$ and ${\\mathcal{G}}_K$ is the absolute Galois group of a finite extension $K / {\\mathbb{Q}}_p$, and study their properties. We show Zariski density of the crystalline points on the rigid generic fiber ${\\mathfrak{X}}_{\\overline{\\rho}}$ of the framed deformation space of $\\overline{\\rho}$ under some conditions.",
+          "link": "https://arxiv.org/abs/2407.17005",
+          "publishedOn": "2024-07-26T01:09:51.077Z",
+          "wordCount": 615,
+          "title": "Zariski density of crystalline points on $\\GSp_{2n}$-valued local deformation rings",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "oai:arXiv.org:2407.16937v1",
+          "author": "Jonathan W. Bober, Leo Goldmakher",
+          "description": "arXiv:2407.16937v1 Announce Type: new \nAbstract: In this note we prove (under mild hypotheses) that $f$ is a nontrivial character of $\\mathbb{F}_p$ if and only if the Fourier transform of $f$ has magnitude 1 somewhere in $\\mathbb{F}_p^\\times$. This implies a converse to a theorem of Gauss on the magnitude of the Gauss sum, in addition to other consequences.",
+          "link": "https://arxiv.org/abs/2407.16937",
+          "publishedOn": "2024-07-26T01:09:51.049Z",
+          "wordCount": 621,
+          "title": "A converse to a theorem of Gauss on Gauss sums",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
           "id": "oai:arXiv.org:2406.15930v2",
           "author": "Ronald Orozco L\\'opez",
           "description": "arXiv:2406.15930v2 Announce Type: replace \nAbstract: In this paper, representations of the Euler $(s,t)$-numbers ${\\rm e}_{s,t,u}$ are given: as series compression, as Engel series expansion, as a series of partial Theta functions, as a continued fraction and as the limit of a sequence. Furthermore, it is proved that ${\\rm e}_{as,a^2t,u^{-1}}$ and ${\\rm e}_{as,a^2t,u^{-1}}^{-1}$ are irrational numbers when $a,u\\in\\mathbb{Q}$ and $\\vert au\\vert>1$. This is the first step in a program to study the irrationality of $(s,t)$-analog of known numbers.",
