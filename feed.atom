@@ -2,10 +2,165 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wangyenshu.github.io/arxiv-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-05T01:12:47.382Z</updated>
+    <updated>2024-08-06T01:11:09.467Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://wangyenshu.github.io/arxiv-feed/index.html"/>
     <link rel="self" href="https://wangyenshu.github.io/arxiv-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Diophantine equation $b (b+1) (b+2) = t a (a + 1) (a + 2)$ and gap principle]]></title>
+        <id>oai:arXiv.org:2408.01306v1</id>
+        <link href="https://arxiv.org/abs/2408.01306"/>
+        <updated>2024-08-06T01:11:09.424Z</updated>
+        <summary type="html"><![CDATA[arXiv:2408.01306v1 Announce Type: new 
+Abstract: In this article, we are interested in whether a product of three consecutive integers $a (a+1) (a+2)$ divides another such product $b (b+1) (b+2)$. If this happens, we prove that there is some gaps between them, namely $b \gg \frac{a \log a)^{1/6}}{\log \log a)^{1/3}}$. We also consider other polynomial sequences such as $a^2 (a^2 + l)$ dividing $b^2 (b^2 + l)$ for some fixed integer $l$. Our method is based on effective Liouville-Baker-Feldman theorem.]]></summary>
+        <author>
+            <name>Tsz Ho Chan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anti-cyclotomic Euler system of diagonal cycles]]></title>
+        <id>oai:arXiv.org:2408.01219v1</id>
+        <link href="https://arxiv.org/abs/2408.01219"/>
+        <updated>2024-08-06T01:11:09.413Z</updated>
+        <summary type="html"><![CDATA[arXiv:2408.01219v1 Announce Type: new 
+Abstract: We construct split anti-cyclotomic Euler systems for Galois representations attached to certain RACSDC automorphic representations on the group $\mathrm{GL}_n\times\mathrm{GL}_{n+1}$. As a result, we make progress towards certain rank 1 cases of the Beilinson--Bloch--Kato conjecture for those representations.]]></summary>
+        <author>
+            <name>Shilin Lai, Christopher Skinner</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[On the Burde--de Rham theorem for finitely presented pro-$p$ groups]]></title>
+        <id>oai:arXiv.org:2408.01270v1</id>
+        <link href="https://arxiv.org/abs/2408.01270"/>
+        <updated>2024-08-06T01:11:09.397Z</updated>
+        <summary type="html"><![CDATA[arXiv:2408.01270v1 Announce Type: cross 
+Abstract: We consider the Burde--de Rham theorem for finitely presented pro-$p$ groups under the assumption that the total degrees of all relators are $0$. We also give some concrete examples including higher-dimensional cases under Iwasawa theoretic conditions, and consider some cohomological interpretations.]]></summary>
+        <author>
+            <name>Yasushi Mizusawa, Ryoto Tange, Yuji Terashima</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SeCritMass: Threshold Secret Petitions]]></title>
+        <id>oai:arXiv.org:2408.01255v1</id>
+        <link href="https://arxiv.org/abs/2408.01255"/>
+        <updated>2024-08-06T01:11:09.390Z</updated>
+        <summary type="html"><![CDATA[arXiv:2408.01255v1 Announce Type: cross 
+Abstract: We introduce the notion of an $n$-threshold secret petition, in which users add encrypted signatures to a petition, and the signatures are decrypted if and only if at least $n$ signatures have been gathered. This solves the coordination problem in which users wish to sign a petition or commit to a cause, but do not want to be identified as having signed it before enough others have signed it too. We present an implementation of such a petition based on the ElGamal cryptosystem. Applications include reporting misconduct in situations were complainants hesitate to come forward alone, such as in allegations of sexual harassment or police brutality.]]></summary>
+        <author>
+            <name>Florian Breuer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[On a generalisation sum involving the Euler function]]></title>
+        <id>oai:arXiv.org:2408.01015v1</id>
+        <link href="https://arxiv.org/abs/2408.01015"/>
+        <updated>2024-08-06T01:11:09.365Z</updated>
+        <summary type="html"><![CDATA[arXiv:2408.01015v1 Announce Type: new 
+Abstract: Let $j \ge1$, $k\ge 0$ be real numbers and $\varphi(n)$ be the Euler function. In this paper, we study the asymptotical behaviour of the summation function $$S_{j,k}(x):=\sum_{n\le x}\frac{\varphi\left ( \left [ \frac{x}{n} \right ]^{j} \right ) }{\left [ \frac{x}{n} \right ]^{k} } $$ as $x\to \infty $, where $\left [ \cdot \right ] $ is the integral part function. Our results combine and generalize the recent work of Zhai, Wu and Ma.]]></summary>
+        <author>
+            <name>Zhaoxi Ye, Zhefeng Xu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sign uncertainty and de Branges spaces]]></title>
+        <id>oai:arXiv.org:2408.01186v1</id>
+        <link href="https://arxiv.org/abs/2408.01186"/>
+        <updated>2024-08-06T01:11:09.360Z</updated>
+        <summary type="html"><![CDATA[arXiv:2408.01186v1 Announce Type: cross 
+Abstract: We investigate here the sign uncertainty phenomenon for bandlimited functions, with a competing condition given by integration with respect to a general measure. Our main result provides a framework related to the theory of de Branges spaces of entire functions, that allows one to find the sharp constants and classify the extremizers in a broad range of situations. We discuss an application in number theory, in connection to bounds for zeros of $L$-functions.]]></summary>
+        <author>
+            <name>Emanuel Carneiro, Tolibjon Ismoilov, Antonio Pedro Ramos</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Integral representations of Catalan numbers using Touchard-like identities]]></title>
+        <id>oai:arXiv.org:2408.01201v1</id>
+        <link href="https://arxiv.org/abs/2408.01201"/>
+        <updated>2024-08-06T01:11:09.355Z</updated>
+        <summary type="html"><![CDATA[arXiv:2408.01201v1 Announce Type: cross 
+Abstract: In this article, we use the Touchard identity in order to obtain new integral representations for Catalan numbers. The main idea consists in combining the identity with a known integral representation and resorting to the binomial theorem. The same procedure is applied to a variant of the Touchard identity proposed by Callan a few years ago. The method presented here can be generalized to derive additional integral representations from known ones, provided that the latter have a well-suited form and lend themselves to an analytical summation under the integral sign.]]></summary>
+        <author>
+            <name>Jean-Christophe Pain</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Diophantine Approximation with Piatetski-Shapiro Primes]]></title>
+        <id>oai:arXiv.org:2408.01314v1</id>
+        <link href="https://arxiv.org/abs/2408.01314"/>
+        <updated>2024-08-06T01:11:09.340Z</updated>
+        <summary type="html"><![CDATA[arXiv:2408.01314v1 Announce Type: new 
+Abstract: We prove that for every irrational number $\alpha$, real number $c$ satisfying $1<c<9/8$ and positive real number $\theta$ satisfying $\theta<(9/c-8)/10$, there exist infinitely many primes of the form $p=\left[n^c\right]$ with $n\in \mathbb{N}$ such that $||\alpha p||<p^{-\theta}$.]]></summary>
+        <author>
+            <name>Stephan Baier, Habibur Rahaman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Complex moments of class numbers with fundamental unit restrictions]]></title>
+        <id>oai:arXiv.org:2408.01401v1</id>
+        <link href="https://arxiv.org/abs/2408.01401"/>
+        <updated>2024-08-06T01:11:09.325Z</updated>
+        <summary type="html"><![CDATA[arXiv:2408.01401v1 Announce Type: new 
+Abstract: We explore the distribution of class numbers $h(d)$ of indefinite binary quadratic forms, for discriminants $d$ such that the corresponding fundamental unit $\varepsilon_d$ is lower than $d^{1/2+\alpha}$, where $0<\alpha<1/2$. To do so we find an asymptotic formula for $z^{th}$-moments of such $h(d)$'s, over $d\leq x$, uniformly for a complex number $z$ in a range of the form $|z|\leq(\log x)^{1+o(1)}$, $\Re(z)\geq -1$. This is achieved by constructing a probabilistic random model for these values, which we will use to obtain estimates for the distribution function of $h(d)$ over our family. As another application, we give an asymptotic formula for the number of $d$'s such that $h(d)\leq H$ and $\varepsilon_d\leq d^{1/2+\alpha}$ where $H$ is a large real number.]]></summary>
+        <author>
+            <name>J\'er\'emy Dousselin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[p-adic Equiangular Lines and p-adic van Lint-Seidel Relative Bound]]></title>
+        <id>oai:arXiv.org:2408.00810v1</id>
+        <link href="https://arxiv.org/abs/2408.00810"/>
+        <updated>2024-08-06T01:11:09.308Z</updated>
+        <summary type="html"><![CDATA[arXiv:2408.00810v1 Announce Type: cross 
+Abstract: We introduce the notion of p-adic equiangular lines and derive the first fundamental relation between common angle, dimension of the space and the number of lines. More precisely, we show that if $\{\tau_j\}_{j=1}^n$ is p-adic $\gamma$-equiangular lines in $\mathbb{Q}^d_p$, then \begin{align*} (1) \quad\quad \quad \quad |n|^2\leq |d|\max\{|n|, \gamma^2 \}. \end{align*} 
+  We call Inequality (1) as the p-adic van Lint-Seidel relative bound. We believe that this complements fundamental van Lint-Seidel \textit{[Indag. Math., 1966]} relative bound for equiangular lines in the p-adic case.]]></summary>
+        <author>
+            <name>K. Mahesh Krishna</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Igusa Stacks and the Cohomology of Shimura Varieties]]></title>
+        <id>oai:arXiv.org:2408.01348v1</id>
+        <link href="https://arxiv.org/abs/2408.01348"/>
+        <updated>2024-08-06T01:11:09.295Z</updated>
+        <summary type="html"><![CDATA[arXiv:2408.01348v1 Announce Type: new 
+Abstract: We construct functorial Igusa stacks for all Hodge-type Shimura varieties, proving a conjecture of Scholze and extending earlier results of the fourth-named author for PEL-type Shimura varieties. Using the Igusa stack, we construct a sheaf on $\mathrm{Bun}_G$ that controls the cohomology of the corresponding Shimura variety. We use this sheaf and the spectral action of Fargues-Scholze to prove a compatibility between the cohomology of Shimura varieties of Hodge type and the semisimple local Langlands correspondence of Fargues-Scholze, generalizing the Eichler-Shimura relation of Blasius-Rogawski to arbitrary level at $p$. When the given Shimura variety is proper, we show moreover that the sheaf is perverse, which allows us to prove new torsion vanishing results for the cohomology of Shimura varieties.]]></summary>
+        <author>
+            <name>Patrick Daniels, Pol van Hoften, Dongryul Kim, Mingjia Zhang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Classical periods of Eisenstein series and Bernoulli polynomials in the equivariant cohomology of a torus]]></title>
+        <id>oai:arXiv.org:2408.00962v1</id>
+        <link href="https://arxiv.org/abs/2408.00962"/>
+        <updated>2024-08-06T01:11:09.188Z</updated>
+        <summary type="html"><![CDATA[arXiv:2408.00962v1 Announce Type: new 
+Abstract: We find group cochains valued in currents giving explicit representatives for the $\text{GL}_2$-equivariant polylogarithm class of a torus. Based on the construction of weight-$2$ Eisenstein series for $\text{GL}_2$ from this polylogarithm class, we give a geometrically-flavored derivation of the classical formulas for the associated Dedekind-Rademacher homomorphisms, i.e. the periods of $E^2_{\alpha,\beta}$ for various nonzero torsion sections $(\alpha, \beta)$.]]></summary>
+        <author>
+            <name>Peter Xu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[On a problem of Pongsriiam on the sum of divisors, II]]></title>
+        <id>oai:arXiv.org:2408.00979v1</id>
+        <link href="https://arxiv.org/abs/2408.00979"/>
+        <updated>2024-08-06T01:11:09.114Z</updated>
+        <summary type="html"><![CDATA[arXiv:2408.00979v1 Announce Type: new 
+Abstract: For any positive integer $n$, let $\sigma (n)$ be the sum of all positive divisors of $n.$ In this paper, it is proved that the set of positive integers $ n $ for which $ \sigma(30n+1)\geq \sigma(30n) $ has a density less than $ 0.0371813, $ which answers a recent problem of Pongsriiam in part.]]></summary>
+        <author>
+            <name>Rui-Jing Wang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ZEROS]]></title>
+        <id>oai:arXiv.org:2408.00961v1</id>
+        <link href="https://arxiv.org/abs/2408.00961"/>
+        <updated>2024-08-06T01:11:09.054Z</updated>
+        <summary type="html"><![CDATA[arXiv:2408.00961v1 Announce Type: new 
+Abstract: The purpose of this book is two fold. (1) To give a systematic account of classical "zero theory" as developed by Jensen, P\'olya, Titchmarsh, Cartwright, Levinson and others. (2) To set forth developments of a more recent nature with a view toward their possible application to the Riemann Hypothesis.]]></summary>
+        <author>
+            <name>Garth Warner</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sequences with Inequalities]]></title>
         <id>oai:arXiv.org:2408.00319v1</id>
