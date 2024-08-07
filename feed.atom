@@ -2,10 +2,343 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wangyenshu.github.io/arxiv-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-06T01:11:09.467Z</updated>
+    <updated>2024-08-07T01:12:07.530Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://wangyenshu.github.io/arxiv-feed/index.html"/>
     <link rel="self" href="https://wangyenshu.github.io/arxiv-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Prosoluble subgroups of free profinite products]]></title>
+        <id>oai:arXiv.org:2312.09315v2</id>
+        <link href="https://arxiv.org/abs/2312.09315"/>
+        <updated>2024-08-07T01:12:07.490Z</updated>
+        <summary type="html"><![CDATA[arXiv:2312.09315v2 Announce Type: replace-cross 
+Abstract: We describe free prosoluble subgroups of a free product of profinite groups by strengthening the theorem of Frorian Pop and answering two questions of K. Ersoy and W. Herfort. Relatively projective prosoluble groups are also described.]]></summary>
+        <author>
+            <name>Pavel Zalesskii</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pointwise convergence of ergodic averages with M\"obius weight]]></title>
+        <id>oai:arXiv.org:2401.03174v2</id>
+        <link href="https://arxiv.org/abs/2401.03174"/>
+        <updated>2024-08-07T01:12:07.325Z</updated>
+        <summary type="html"><![CDATA[arXiv:2401.03174v2 Announce Type: replace-cross 
+Abstract: Let $(X,\nu,T)$ be a measure-preserving system, and let $P_1,\ldots, P_k$ be polynomials with integer coefficients. We prove that, for any $f_1,\ldots, f_k\in L^{\infty}(X)$, the M\"obius-weighted polynomial multiple ergodic averages \begin{align*}\frac{1}{N}\sum_{n\leq N}\mu(n)f_1(T^{P_1(n)}x)\cdots f_k(T^{P_k(n)}x) \end{align*} converge to $0$ pointwise almost everywhere. Specialising to $P_1(y)=y, P_2(y)=2y$, this solves a problem of Frantzikinakis. We also prove pointwise convergence for a more general class of multiplicative weights for multiple ergodic averages involving distinct degree polynomials. For the proofs we establish some quantitative generalised von Neumann theorems for polynomial configurations that are of independent interest.]]></summary>
+        <author>
+            <name>Joni Ter\"av\"ainen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Witt invariants of Weyl groups]]></title>
+        <id>oai:arXiv.org:2309.07972v3</id>
+        <link href="https://arxiv.org/abs/2309.07972"/>
+        <updated>2024-08-07T01:12:07.309Z</updated>
+        <summary type="html"><![CDATA[arXiv:2309.07972v3 Announce Type: replace-cross 
+Abstract: We describe the Witt invariants of a Weyl group over a field $k_0$ by giving generators for the $W(k_0)$-module of Witt invariants, under the assumption that the characteristic of $k_0$ does not divide the order of the group. For the Weyl groups of types $B_n$, $C_n$, $D_n$, and $G_2$, we show that the Witt invariants are generated as a $W(k_0)$-algebra by trace forms and their exterior powers, extending a result due to Serre in type $A_n$. Many of our computational methods are applicable to computing Witt invariants of any smooth linear algebraic group over $k_0$, including a technique for lifting module generators from cohomological invariants to Witt invariants.]]></summary>
+        <author>
+            <name>Tamar Blanks</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Takagi Function Identities on Dyadic Rationals]]></title>
+        <id>oai:arXiv.org:2111.05996v3</id>
+        <link href="https://arxiv.org/abs/2111.05996"/>
+        <updated>2024-08-07T01:12:07.299Z</updated>
+        <summary type="html"><![CDATA[arXiv:2111.05996v3 Announce Type: replace-cross 
+Abstract: The number of unbalanced interior nodes of divide-and-conquer trees on $n$ leaves is known to form a sequence of dilations of the Takagi function on dyadic rationals. We use this fact to derive identities on the Takagi function and on the Hamming weight of an integer in terms of the Takagi function.]]></summary>
+        <author>
+            <name>Laura Monroe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Petersson norms of Borcherds theta lifts to O(1, 8n+1) with applications to injectivity and sup-norm bounds]]></title>
+        <id>oai:arXiv.org:2404.04426v2</id>
+        <link href="https://arxiv.org/abs/2404.04426"/>
+        <updated>2024-08-07T01:12:07.295Z</updated>
+        <summary type="html"><![CDATA[arXiv:2404.04426v2 Announce Type: replace 
+Abstract: We give an explicit formula for the Petersson norms of theta lifts from Maass cusp forms of level one to cusp forms on orthogonal groups O(1,8n+1). Our formula explicitly determines archimedean local factors of the norms. As an application, we obtain the injectivity of the lifting of Maass forms and bounds on the sup-norm of cusp forms on these orthogonal groups in terms of their Laplace eigenvalues.]]></summary>
+        <author>
+            <name>Simon Marshall, Hiroaki Narita, Ameya Pitale</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[First-order definability of affine Campana points in the projective line over a number field]]></title>
+        <id>oai:arXiv.org:2401.16354v2</id>
+        <link href="https://arxiv.org/abs/2401.16354"/>
+        <updated>2024-08-07T01:12:07.142Z</updated>
+        <summary type="html"><![CDATA[arXiv:2401.16354v2 Announce Type: replace 
+Abstract: We offer a $\forall\exists$-definition for (affine) Campana points over $\mathbb{P}^1_K$ (where $K$ is a number field), which constitute a set-theoretical filtration between $K$ and $\mathcal{O}_{K,S}$ ($S$-integers), which are well-known to be universally defined (Koenigsmann 2010, Park 2012, Eisentraeger & Morrison 2016). We also show that our formulas are uniform with respect to all possible $S$, are parameter-free as such, and we count the number of involved quantifiers and offer a bound for the degree of the defining polynomial.]]></summary>
+        <author>
+            <name>Juan Pablo De Rasis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bogomolov property for certain infinite non-Galois extensions]]></title>
+        <id>oai:arXiv.org:2404.11559v4</id>
+        <link href="https://arxiv.org/abs/2404.11559"/>
+        <updated>2024-08-07T01:12:07.137Z</updated>
+        <summary type="html"><![CDATA[arXiv:2404.11559v4 Announce Type: replace 
+Abstract: For an algebraic number $\alpha$, let $h(\alpha)$ denote its logarithmic Weil height. In 2002, Bombieri and Zannier obtained lower bounds for Weil height for totally $p$-adic extensions of $\mathbb{Q}$, i.e., infinite Galois extension over $\mathbb{Q}$ with finite local degree over a rational prime $p$. In this paper, we formulate and prove the non-Galois analogue of this result. In particular, it leads to a $p$-adic equidistribution result i.e., if a positive proportion of conjugates of $\alpha\in\overline{\mathbb{Q}}$ lie in a finite local extension $K_{v}/\mathbb{Q}_p$, then we obtain absolute lower bound for $h(\alpha)$. We also undertake the analoguous problem for canonical height of an elliptic curve $E/K$ and obtain explicit lower bounds for them on certain non-Galois infinite extensions.]]></summary>
+        <author>
+            <name>Anup B. Dixit, Sushant Kala</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Incidence geometry and polynomial expansion over finite fields]]></title>
+        <id>oai:arXiv.org:2408.02518v1</id>
+        <link href="https://arxiv.org/abs/2408.02518"/>
+        <updated>2024-08-07T01:12:07.132Z</updated>
+        <summary type="html"><![CDATA[arXiv:2408.02518v1 Announce Type: cross 
+Abstract: We use spectral theory and algebraic geometry to establish a higher-degree analogue of a Szemer\'edi--Trotter-type theorem over finite fields, with an application to polynomial expansion.]]></summary>
+        <author>
+            <name>Nuno Arala, Sam Chow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Local systems which do not come from abelian varieties]]></title>
+        <id>oai:arXiv.org:2408.02475v1</id>
+        <link href="https://arxiv.org/abs/2408.02475"/>
+        <updated>2024-08-07T01:12:07.122Z</updated>
+        <summary type="html"><![CDATA[arXiv:2408.02475v1 Announce Type: cross 
+Abstract: For each punctured curve over a finite field, we construct local systems which do not come from a family of abelian varieties. We do so by proving a criterion which must be satisfied by local systems which do come from abelian varieties, inspired by an analogous Hodge theoretic criterion in characteristic zero. Our tools include $F$-isocrystals and some $p$-adic Hodge theory.]]></summary>
+        <author>
+            <name>Paul Brommer-Wierig, Yeuk Hay Joshua Lam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Strong Approximation and Hasse Principle for Integral Quadratic Forms over Affine Curves]]></title>
+        <id>oai:arXiv.org:2312.08849v2</id>
+        <link href="https://arxiv.org/abs/2312.08849"/>
+        <updated>2024-08-07T01:12:07.117Z</updated>
+        <summary type="html"><![CDATA[arXiv:2312.08849v2 Announce Type: replace 
+Abstract: We extend some parts of the representation theory for integral quadratic forms over the ring of integers of a number field to the case over the coordinate ring $k[C]$ of an affine curve $C$ over a general base field $k$. By using the genus theory, we link the strong approximation property of certain spin groups to the Hasse principle for representations of integral quadratic forms over $k[C]$ and derive several applications. In particular, we give an example where a spin group does not satisfy strong approximation.]]></summary>
+        <author>
+            <name>Yong Hu, Jing Liu, Yisheng Tian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tame motivic cohomology and a conjecture of H\"ubner--Schmidt]]></title>
+        <id>oai:arXiv.org:2408.02499v1</id>
+        <link href="https://arxiv.org/abs/2408.02499"/>
+        <updated>2024-08-07T01:12:07.112Z</updated>
+        <summary type="html"><![CDATA[arXiv:2408.02499v1 Announce Type: cross 
+Abstract: We construct a comparison functor between ($\mathbf{A}^1$-local) tame motives and ($\overline{\square}$-local) log-\'etale motives over a field $k$ of positive characteristic. This generalizes Binda--Park--{\O}stv{\ae}r's comparison for the Nisnevich topology. As a consequence, we construct an $E_\infty$-ring spectrum $H\mathbb{Z}/p^m$ representing mod $p^m$ tame motivic cohomology: the existence of this ring spectrum and the usual properties of motives imply some results on tame motivic cohomology, which were conjectured by H\"ubner--Schmidt.]]></summary>
+        <author>
+            <name>Alberto Merici</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Discrete $\Omega$-results for the Riemann zeta function]]></title>
+        <id>oai:arXiv.org:2312.08011v2</id>
+        <link href="https://arxiv.org/abs/2312.08011"/>
+        <updated>2024-08-07T01:12:07.105Z</updated>
+        <summary type="html"><![CDATA[arXiv:2312.08011v2 Announce Type: replace 
+Abstract: We study lower bounds for the Riemann zeta function $\zeta(s)$ along vertical arithmetic progressions in the right-half of the critical strip. We show that the lower bounds obtained in the discrete case coincide, up to the constants in the exponential, with the ones known for the continuous case, that is when the imaginary part of $s$ ranges on a given interval. Our methods are based on a discretization of the resonance method for estimating extremal values of $\zeta(s)$.]]></summary>
+        <author>
+            <name>Paolo Minelli, Athanasios Sourmelidis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Abelian surfaces over finite fields containing no curves of genus $3$ or less]]></title>
+        <id>oai:arXiv.org:2408.02493v1</id>
+        <link href="https://arxiv.org/abs/2408.02493"/>
+        <updated>2024-08-07T01:12:07.090Z</updated>
+        <summary type="html"><![CDATA[arXiv:2408.02493v1 Announce Type: cross 
+Abstract: We characterise abelian surfaces defined over finite fields containing no curves of genus less than or equal to $3$. Firstly, we complete and expand the characterisation of isogeny classes of abelian surfaces with no curves of genus up to $2$ initiated by the first author et al. in previous work. Secondly, we show that, for simple abelian surfaces, containing a curve of genus $3$ is equivalent to admitting a polarisation of degree $4$. Thanks to this result, we can use existing algorithms to check which isomorphism classes in the isogeny classes containing no genus $2$ curves have a polarisation of degree $4$. Thirdly, we characterise isogeny classes of abelian surfaces with no curves of genus $\leq 2$, containing no abelian surface with a polarisation of degree $4$. Finally, we describe absolutely irreducible genus $3$ curves lying on abelian surfaces containing no curves of genus less than or equal to $2$, and show that their number of rational points is far from the Serre--Weil bound.]]></summary>
+        <author>
+            <name>Elena Berardini, Alejandro Giangreco Maidana, Stefano Marseglia</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Asymptotics of integral points, equivariant compactifications and equidistributions for homogeneous spaces]]></title>
+        <id>oai:arXiv.org:2408.02325v1</id>
+        <link href="https://arxiv.org/abs/2408.02325"/>
+        <updated>2024-08-07T01:12:06.916Z</updated>
+        <summary type="html"><![CDATA[arXiv:2408.02325v1 Announce Type: cross 
+Abstract: Let U be a homogeneous variety over rational numbers of some linear algebraic group. Fix an integral model and assume the existence of infinitely many integral points. Then one would like to give an asymptotic count with the help of some height function. In many cases, with the help of measure rigidity of unipotent flows, we reduce this problem to one on equivariant birational geometry. For instance, we show that if G and H are both connected, semisimple, simply connected and without compact factors, then U=G/H is strongly Hardy-Littlewood with respect to certain height function. We also show that when H is "large" in H and both G and H are connected, reductive and without non-trivial Q-characters, then for every equivariant height, the asymptotic of integral points is the same as the volume asymptotic up to a constant. Three concrete examples with explicit heights are also provided to illustrate our approach.]]></summary>
+        <author>
+            <name>Runlin Zhang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[On Proving Ramanujan's Inequality using a Sharper Bound for the Prime Counting Function $\pi(x)$]]></title>
+        <id>oai:arXiv.org:2408.02591v1</id>
+        <link href="https://arxiv.org/abs/2408.02591"/>
+        <updated>2024-08-07T01:12:06.898Z</updated>
+        <summary type="html"><![CDATA[arXiv:2408.02591v1 Announce Type: new 
+Abstract: This article provides a proof that the Ramanujan's Inequality given by,
+  $$\pi(x)^2 < \frac{e x}{\log x} \pi\Big(\frac{x}{e}\Big)$$ holds unconditionally for every $x\geq \exp(59)$. In case for an alternate proof of the result stated above, we shall exploit certain estimates involving the Chebyshev Theta Function, $\vartheta(x)$ in order to derive appropriate bounds for $\pi(x)$, which'll lead us to a much improved condition for the inequality proposed by Ramanujan to satisfy unconditionally.]]></summary>
+        <author>
+            <name>Subham De</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[$q$-Supercongruences for multidimensional series modulo the sixth power of a cyclotomic polynomial]]></title>
+        <id>oai:arXiv.org:2408.02002v1</id>
+        <link href="https://arxiv.org/abs/2408.02002"/>
+        <updated>2024-08-07T01:12:06.891Z</updated>
+        <summary type="html"><![CDATA[arXiv:2408.02002v1 Announce Type: cross 
+Abstract: With the help of El Bachraoui's lemma, the creative microscoping method, and a new form of the Chinese remainder theorem for coprime polynomials, we prove a $q$-supercongruence for double series and a $q$-supercongruence for triple series modulo the sixth power of a cyclotomic polynomial. As conclusions, two corresponding supercongruences for double and triple series, which are associated with the (D.2) supercongruence of Van Hamme, are given.]]></summary>
+        <author>
+            <name>Chuanan Wei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[On Speh representations for level zero supercuspidal representations and Ginzburg-Kaplan gamma factors]]></title>
+        <id>oai:arXiv.org:2408.01856v1</id>
+        <link href="https://arxiv.org/abs/2408.01856"/>
+        <updated>2024-08-07T01:12:06.875Z</updated>
+        <summary type="html"><![CDATA[arXiv:2408.01856v1 Announce Type: cross 
+Abstract: We establish a relation between Speh representations of $\mathrm{GL}_n\left(\mathbb{F}_q\right)$ and Speh representations of $\mathrm{GL}_n\left(F\right)$, where $F$ is a non-archimedean local field. We use irreducible level zero supercuspidal representations to show that these two notions of Speh representations associated to cuspidal representations are related via a commutative diagram, and that their corresponding $(k,c)$ $\psi$-Whittaker models are also related. We use these results to relate the local Ginzburg-Kaplan integrals for level zero supercuspidal representations to their finite field counterparts.]]></summary>
+        <author>
+            <name>Elad Zelingher</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Iwasawa invariants of finite spectra]]></title>
+        <id>oai:arXiv.org:2408.02163v1</id>
+        <link href="https://arxiv.org/abs/2408.02163"/>
+        <updated>2024-08-07T01:12:06.758Z</updated>
+        <summary type="html"><![CDATA[arXiv:2408.02163v1 Announce Type: cross 
+Abstract: We calculate the classical Iwasawa invariants of the Iwasawa modules associated to the $p$-adic topological $K$-theory of finite spectra. We show that the graded average of the orders of $n$ consecutive $K(1)$-local homotopy groups of a finite spectrum $X$ grows asymptotically like $\frac{-\log_p(n)}{2}$ times the total Iwasawa $\lambda$-invariant of $X$. We show that the Iwasawa $\mu$-invariants of finite spectra are all zero. Finally, we prove a spectral analogue of a weak form of the Iwasawa Main Conjecture, describing the orders of the $K(1)$-local homotopy groups of a certain ``torsion-free replacement'' of $X$ in terms of the characteristic polynomials of the Iwasawa modules associated to $X$.]]></summary>
+        <author>
+            <name>Austin Maison, Andrew Salch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Weighted exponential sums and its applications]]></title>
+        <id>oai:arXiv.org:2408.02020v1</id>
+        <link href="https://arxiv.org/abs/2408.02020"/>
+        <updated>2024-08-07T01:12:06.753Z</updated>
+        <summary type="html"><![CDATA[arXiv:2408.02020v1 Announce Type: new 
+Abstract: Let $f$ be a real polynomial with irrational leading co-efficient. In this article, we derive distribution of $f(n)$ modulo one for all $n$ with at least three divisors and also we study distribution of $f(n)$ for all square-free $n$ with at least two prime factors. We study exponential sums when weighted by divisor functions and exponential sums over square free numbers. In particular, we are interested in evaluating \begin{align*} \sum_{n\leq N}\tau(n)e\left(f(n)\right) ~\text{and}~\sum_{n\leq N}\mu^2(n)e\left(f(n)\right), \end{align*} for some polynomial $f$, where $\tau$ is the divisor function and $\mu$ is the M\"{o}bius function. We get non-trivial estimates when the leading co-efficient $\alpha$ of $f$ belongs to the minor arc.]]></summary>
+        <author>
+            <name>Nilanjan Bag, Dwaipayan Mazumder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jacobi polynomials, invariant rings, and generalized $t$-designs]]></title>
+        <id>oai:arXiv.org:2408.02229v1</id>
+        <link href="https://arxiv.org/abs/2408.02229"/>
+        <updated>2024-08-07T01:12:06.747Z</updated>
+        <summary type="html"><![CDATA[arXiv:2408.02229v1 Announce Type: cross 
+Abstract: In the present paper, we provide results that relate the Jacobi polynomials in genus $g$. We show that if a code is $t$-homogeneous that is, the codewords of the code for every given weight hold a $t$-design, then its Jacobi polynomial in genus $g$ with composition $T$ with $|T|\leq t$ can be obtained from its weight enumerator in genus~$g$ using the polarization operator. Using this fact, we investigate the invariant ring, which relates the homogeneous Jacobi polynomials of the binary codes in genus $g$. Specifically, the generators of the invariant ring appearing for $g=1$ are obtained. Moreover, we define the split Jacobi polynomials in genus~$g$ and obtain the MacWilliams type identity for it. A split generalization for higher genus cases of the relation between the Jacobi polynomials and weight enumerator of a $t$-homogeneous code also given.]]></summary>
+        <author>
+            <name>Himadri Shekhar Chakraborty, Nur Hamid, Tsuyoshi Miezaki, Manabu Oura</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Low rank specializations of elliptic surfaces]]></title>
+        <id>oai:arXiv.org:2408.02419v1</id>
+        <link href="https://arxiv.org/abs/2408.02419"/>
+        <updated>2024-08-07T01:12:06.731Z</updated>
+        <summary type="html"><![CDATA[arXiv:2408.02419v1 Announce Type: new 
+Abstract: Let $E/\mathbb{Q}(T)$ be a non-isotrivial elliptic curve of rank $r$. A theorem due to Silverman implies that the rank $r_t$ of the specialization $E_t/\mathbb{Q}$ is at least $r$ for all but finitely many $t \in \mathbb{Q}$. Moreover, it is conjectured that $r_t \leq r+2$, except for a set of density $0$. In this article, when $E/\mathbb{Q}(T)$ has a torsion point of order $2$, under an assumption on the discriminant of a Weierstrass equation for $E/\mathbb{Q}(T)$, we produce an upper bound for $r_t$ that is valid for infinitely many $t$. We also present two examples of non-isotrivial elliptic curves $E/\mathbb{Q}(T)$ such that $r_t \leq r+1$ for infinitely many $t$.]]></summary>
+        <author>
+            <name>Mentzelos Melistas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Series expansions by generalized Bessel functions for functions related to the lattice point problems for the p-circle]]></title>
+        <id>oai:arXiv.org:2408.02613v1</id>
+        <link href="https://arxiv.org/abs/2408.02613"/>
+        <updated>2024-08-07T01:12:06.724Z</updated>
+        <summary type="html"><![CDATA[arXiv:2408.02613v1 Announce Type: new 
+Abstract: The lattice point problems of the p-circle (e.g., the astroid), which a generalized circle for positive real numbers p, have been solved for approximately p more than 3, based on the series representation of the error term using the generalized Bessel functions by E. Kr"atzel and the results of G. Kuba. On the other hand, for the cases 0 < p < 2, the method via this series representation cannot make progress. Therefore, in such cases, it is necessary to consider another method. In this paper, we prove that certain functions closely related to the problems can be displayed as series by newly generalized Bessel functions based on the property p-radial, generalization of spherical symmetry, and highlight the possibility that attempts to solve the problems via this display are suitable especially for the cases 0 < p < 1 or p=1. This study is based on the harmonic-analytic method by S. Kuratsubo and E. Nakai, using certain functions generalizing the error term of the circle problem by variables and series representation of the functions by the Bessel functions.]]></summary>
+        <author>
+            <name>Masaya Kitajima</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[On the geometrization of the $p$-adic local Langlands correspondence]]></title>
+        <id>oai:arXiv.org:2408.02358v1</id>
+        <link href="https://arxiv.org/abs/2408.02358"/>
+        <updated>2024-08-07T01:12:06.704Z</updated>
+        <summary type="html"><![CDATA[arXiv:2408.02358v1 Announce Type: new 
+Abstract: We survey results related to our geometrization of a part of the $p$-adic local Langlands correspondence for ${\mathrm{GL}}_2({\mathbf Q}_p)$.]]></summary>
+        <author>
+            <name>Pierre Colmez, Gabriel Dospinescu, Wies{\l}awa Nizio{\l}</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[On the distribution of $\phi(\sigma(n))$]]></title>
+        <id>oai:arXiv.org:2408.01936v1</id>
+        <link href="https://arxiv.org/abs/2408.01936"/>
+        <updated>2024-08-07T01:12:06.687Z</updated>
+        <summary type="html"><![CDATA[arXiv:2408.01936v1 Announce Type: new 
+Abstract: Let $\phi(n)$ be the Euler totient function and $\sigma(n)$ denote the sum of divisors of $n$. In this note, we obtain explicit upper bounds on the number of positive integers $n\leq x$ such that $\phi(\sigma(n)) > cn$ for any $c>0$. This is a refinement of a result of Alaoglu and Erd\H{o}s.]]></summary>
+        <author>
+            <name>Saunak Bhattacharjee, Anup B. Dixit</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ultra-Galois theory and an analogue of the Kronecker--Weber theorem for rational function fields over ultra-finite fields]]></title>
+        <id>oai:arXiv.org:2408.02158v1</id>
+        <link href="https://arxiv.org/abs/2408.02158"/>
+        <updated>2024-08-07T01:12:06.605Z</updated>
+        <summary type="html"><![CDATA[arXiv:2408.02158v1 Announce Type: new 
+Abstract: In the first part of this paper, we develop a general framework that permits a comparison between explicit class field theories for a family of rational function fields $\mathbb{F}_s(t)$ over arbitrary constant fields $\mathbb{F}_s$ and explicit class field theory for the rational function field $\mathfrak{K}(t)$ over the nonprincipal ultraproduct $\mathfrak{K}$ of the constant fields $\mathbb{F}_s$. Under an additional assumption that the constant fields $\mathbb{F}_s$ are perfect procyclic fields, we prove a correspondence between ramifications of primes $P$ in $\mathfrak{K}(t)$ and ramifications of primes $P_s$ in $\mathbb{F}_s(t)$, where the $P_s$ are primes in $\mathbb{F}_s(t)$ whose nonprincipal ultraproduct coincides with $P$.
+  In the second part of the paper, we are mainly concerned with rational function fields over a large class of fields, called $n$-th level ultra-finite fields that are a generalization of finite fields. At the $0$-th level, ultra-finite fields are simply finite fields, and for an arbitrary positive integer $n$, an $n$-th level ultra-finite field is inductively defined as a nonprincipal ultraproduct of $(n - 1)$-th level ultra-finite fields. We develop an analogue of cyclotomic function fields for rational function fields over $n$-th level ultra-finite fields that generalize the works of Carlitz and Hayes for rational function fields over finite fields such that these cyclotomic function fields are in complete analogy with the classical cyclotomic fields $\mathbb{Q}(\zeta)$ of the rationals $\mathbb{Q}$. The main result in the second part of the paper is an analogue of the Kronecker--Weber theorem for rational function fields over $n$-th level ultra-finite fields that explicitly describes, from a model-theoretic viewpoint, the maximal abelian extension of the rational function field over a given $n$-th level ultra-finite field for all $n \ge 1$.]]></summary>
+        <author>
+            <name>Dong Quan Ngoc Nguyen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Comparing Hecke eigenvalues for pairs of automorphic representations for GL(2)]]></title>
+        <id>oai:arXiv.org:2408.01643v1</id>
+        <link href="https://arxiv.org/abs/2408.01643"/>
+        <updated>2024-08-07T01:12:06.594Z</updated>
+        <summary type="html"><![CDATA[arXiv:2408.01643v1 Announce Type: new 
+Abstract: We consider a variant of the strong multiplicity one theorem. Let $\pi_{1}$ and $\pi_{2}$ be two unitary cuspidal automorphic representations for $\mathrm{GL(2)}$ that are not twist-equivalent. We find a lower bound for the lower Dirichlet density of the set of places for which $\left\lvert a_{v}(\pi_{1}) \right\rvert > \left\lvert a_{v}(\pi_{2}) \right\rvert$, where $a_{v}(\pi_{i})$ is the trace of Langlands conjugacy class of $\pi_{i}$ at $v$. One consequence of this result is an improvement on the existing bound on the lower Dirichlet density of the set of places for which $\left\lvert a_{v}(\pi_{1})\right\rvert \neq \left\lvert a_{v}(\pi_{2}) \right\rvert$.]]></summary>
+        <author>
+            <name>Kin Ming Tsang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[On the central ball in a translation invariant involutive field]]></title>
+        <id>oai:arXiv.org:2408.01864v1</id>
+        <link href="https://arxiv.org/abs/2408.01864"/>
+        <updated>2024-08-07T01:12:06.571Z</updated>
+        <summary type="html"><![CDATA[arXiv:2408.01864v1 Announce Type: new 
+Abstract: The iterated composition of two operators, both of which are involutions and translation invariant, partitions the set of lattice points in the plane into an infinite sequence of discrete parabolas. Each such parabola contains an associated stairway-like path connecting certain points on it, induced by the alternating application of the aforementioned operators. Any two lattice points in the plane can be connected by paths along the square grid composed of steps either on these stairways or towards taxicab neighbors. This leads to the notion of the parabolic-taxicab distance between two lattice points, obtained as the minimum number of steps of this kind needed to reach one point from the other.
+  In this paper, we describe patterns generated by points on paths of bounded parabolic-taxicab length and provide a complete description of the balls centered at the origin. In particular, we prove an earlier conjecture on the area of these balls.]]></summary>
+        <author>
+            <name>Cristian Cobeli, Aaditya Raghavan, Alexandru Zaharescu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An analogue of a formula of Popov]]></title>
+        <id>oai:arXiv.org:2408.01759v1</id>
+        <link href="https://arxiv.org/abs/2408.01759"/>
+        <updated>2024-08-07T01:12:06.552Z</updated>
+        <summary type="html"><![CDATA[arXiv:2408.01759v1 Announce Type: new 
+Abstract: Let $r_{k}(n)$ denote the number of representations of the positive integer $n$ as the sum of $k$ squares. We prove a new summation formula involving $r_{k}(n)$ and the Bessel functions of the first kind, which constitutes an analogue of a result due to the Russian mathematician A. I. Popov.]]></summary>
+        <author>
+            <name>Pedro Ribeiro</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sifting for small split primes of an imaginary quadratic field in a given ideal class]]></title>
+        <id>oai:arXiv.org:2408.01610v1</id>
+        <link href="https://arxiv.org/abs/2408.01610"/>
+        <updated>2024-08-07T01:12:06.391Z</updated>
+        <summary type="html"><![CDATA[arXiv:2408.01610v1 Announce Type: new 
+Abstract: Let $D>3$, $D\equiv3\;(4)$ be a prime, and let $\mathcal{C}$ be an ideal class in the field $\mathbb{Q}(\sqrt{-D})$. In this article, we give a new proof that $p(D,\mathcal{C})$, the smallest norm of a split prime $\mathfrak{p}\in\mathcal{C}$, satisfies $p(D,\mathcal{C})\ll D^L$ for some absolute constant $L$. Our proof is sieve theoretic. In particular, this allows us to avoid the use of log-free zero-density estimates (for class group $L$-functions) and the repulsion properties of exceptional zeros, two crucial inputs to previous proofs of this result.]]></summary>
+        <author>
+            <name>Louis M. Gaudet</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dynamical Degrees, Arithmetic Degrees, and Canonical Heights: History, Conjectures, and Future Directions]]></title>
+        <id>oai:arXiv.org:2408.01559v1</id>
+        <link href="https://arxiv.org/abs/2408.01559"/>
+        <updated>2024-08-07T01:12:06.365Z</updated>
+        <summary type="html"><![CDATA[arXiv:2408.01559v1 Announce Type: new 
+Abstract: In this note we give an overview of various quantities that are used to measure the complexity of an algebraic dynamical system f:X-->X, including the dynamical degree d(f), which gives a coarse measure of the geometric complexity of the iterates of f, the arithmetic degree a(f,P), which gives a coarse measure of the arithmetic complexity of the orbit of a an algebraic point P in X, and various versions of the canonical height h_f(P) that provide more refined measures of arithmetic complexity. Emphasis is placed on open problems and directions for further exploration.]]></summary>
+        <author>
+            <name>Joseph H. Silverman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Diophantine equation $b (b+1) (b+2) = t a (a + 1) (a + 2)$ and gap principle]]></title>
         <id>oai:arXiv.org:2408.01306v1</id>
